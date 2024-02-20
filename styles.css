@@ -1,0 +1,26 @@
+.navbar {
+  box-shadow: blue;
+}
+.btn {
+}
+.navbar-nav .nav-link {
+  color: black;
+}
+.navbar-nav .nav-link .active {
+  color: blue;
+}
+#title {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+}
+img {
+  height: 200px;
+  border-radius: 20px;
+}
+.theme-shadow{
+    box-shadow: #00bfff;
+}
+.section-padding{
+    padding-top: 50px;
+    padding-top: 50px;
+    
+}
